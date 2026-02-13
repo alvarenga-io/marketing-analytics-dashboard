@@ -2,12 +2,12 @@
 
 Este projeto consiste na reestruturação completa de um dashboard de Marketing Analytics. O objetivo principal foi transformar um relatório técnico e denso em uma ferramenta estratégica de apoio à decisão.
 
+
 ## Melhorias Técnicas
 
+Ao longo do desenvolvimento, percebi que a visualização padrão entregava métricas que poderiam induzir ao erro. Abaixo, destaco as principais decisões analíticas que tomei:
 
-* **Design de Interface (UI):** Implementação de um background personalizado desenvolvido no **Figma*.
-* **Abstração de Dados:** Substituição de números absolutos por **análises percentuais**, permitindo uma visão proporcional mais fiel à realidade do negócio.
-* **Engenharia de Atributos :** Unificação das colunas de "Adolescentes" e "Crianças" na métrica de **Dependentes**, a fim de simplificar a segmentação familiar.
-* **Análise de Performance:** Migração de uma visão geral de campanhas para uma **Análise Comparativa**.
-* **Otimização de Visualização:** * Substituição de matrizes densas por gráficos de **Taxa de Conversão**.
-    * Implementação de gráfico clusterizado por **Estado Civil** para entender o comportamento de compra por canal, removendo cards isolados que não geravam contexto.
+* **Foco na Média, não na Soma:** Notei que os gráficos de soma de gastos refletiam apenas qual segmento era majoritário na base (ex: "quem tem mais gente, gasta mais no total"). Para identificar o real **padrão de consumo**, substituí as somas pela **média gasta por grupo**, revelando o verdadeiro potencial de cada perfil de cliente.
+* **Engenharia de Atributos :** Unifiquei "Crianças" e "Adolescentes" em uma única métrica de **Dependentes**. No dia a dia de uma decisão de marketing, entender o impacto da carga familiar no orçamento é mais ágil do que analisar faixas etárias isoladas.
+* **Design Estratégico com Figma:** Desenvolvi um background customizado para garantir que os KPIs (indicadores-chave) tivessem o devido destaque.
+* **Eficiência das Campanhas:** Contrária ao modelo original que fornecia uma visão geral das campanhas, criei uma análise comparativa entre as 5 campanhas. Isso permite identificar rapidamente qual estratégia de marketing teve maior taxa de converão com determinados grupos.
