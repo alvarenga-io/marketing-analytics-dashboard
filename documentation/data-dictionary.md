@@ -28,8 +28,8 @@ A base de dados consiste em uma tabela única contendo o histórico de campanhas
 | **Compra na Campanha 4** | Int | Variável binária (1: aceitou a oferta, 0: não aceitou) para cada campanha específica.|
 | **Compra na Campanha 5** | Int | Variável binária (1: aceitou a oferta, 0: não aceitou) para cada campanha específica.|
 | **Comprou** | String | Variável Alvo: Indica se o cliente realizou compra na última campanha (0 ou 1). |
-| **Pais** | String | País de origem ou residência do cliente.|
-| **Perfil Familiar** | String | Idade dos dependendentes (Ex: Apenas Crianças, Crianças e Adolescentes)|
+| **Pais** | String | País de residência do cliente.|
+| **Perfil Familiar** | String | Idade dos dependendentes do cliente(Ex: Apenas Crianças, Crianças e Adolescentes)|
 | **Geração** | String | Classificação etária (Ex: Boomers, Gen X, Millennials, Gen Z).|
 
 
