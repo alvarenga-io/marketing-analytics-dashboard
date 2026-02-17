@@ -1,8 +1,8 @@
-# Dashboard de Análise de Comportamento do Cliente e Performance de Marketing
+# 📊 Dashboard de Análise de Comportamento do Cliente e Performance de Marketing
 
 Nste projeto foi feita a reestruturação completa de um dashboard de Marketing Analytics. O objetivo principal foi transformar um relatório denso em uma ferramenta de apoio à decisão.
 
-### Páginas do Relatório:
+### 📌 Páginas do Relatório:
 
 1. **Visão Cliente (Executiva):** Principais KPIs de faturamento e volume.
 2. **Comportamento do Consumidor:** Análise de hábitos de compra baseada em segmentos.
@@ -11,7 +11,7 @@ Nste projeto foi feita a reestruturação completa de um dashboard de Marketing 
 
 ---
 
-## Melhorias Técnicas
+## 🏗️ Melhorias Técnicas
 
 Ao longo do desenvolvimento, percebi que a visualização padrão entregava métricas que poderiam induzir ao erro. Abaixo, seguem as principais decisões analíticas que tomei:
 
