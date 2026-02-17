@@ -24,4 +24,4 @@ Ao longo do desenvolvimento, percebi que a visualização padrão entregava mét
 ## Estrtura do Dashboard
 
 ### Página 1 - Visão Cliente
-![Análise do Consumidor](.images/cliente.png)
+![Análise do Consumidor](images/cliente.png)
