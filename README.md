@@ -21,7 +21,19 @@ Ao longo do desenvolvimento, percebi que a visualização padrão entregava mét
 * **Eficiência das Campanhas:** Contrário ao modelo original que fornecia uma visão geral das campanhas, criei uma análise comparativa entre as 5 campanhas. Isso permite identificar rapidamente qual estratégia de marketing teve maior taxa de conversão com determinados grupos.
 
   
-## Estrtura do Dashboard
+## 🔍 Estrtura do Dashboard
 
-### Página 1 - Visão Cliente
+### 👤 Visão Cliente
+
 ![Análise do Consumidor](images/cliente.png)
+
+### 🛒 Visão Comportamentos
+
+![Análise do Comportamento](images/comportamento.png)
+
+### 📢 Visão Campanhas
+
+![Análise das Campanhas](images/campanhas.png)
+
+### 🔔  Pontos de Venda
+![Análise dos Pontos de Vendas ](images/pontos-de-venda.png)
